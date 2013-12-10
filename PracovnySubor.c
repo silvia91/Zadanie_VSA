@@ -8,5 +8,7 @@ int main()
 	
 	printf("Druha zmena v programe");
 	
+	printf("Pridanie funkcionality z noveho konta");
+	
 	return 0;
 }
