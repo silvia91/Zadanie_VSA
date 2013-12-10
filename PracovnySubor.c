@@ -3,5 +3,8 @@
 int main()
 {
 	printf("hello");
+	
+	printf("Prva zmena v programe");
+	
 	return 0;
 }
