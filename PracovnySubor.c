@@ -6,5 +6,7 @@ int main()
 	
 	printf("Prva zmena v programe");
 	
+	printf("Druha zmena v programe");
+	
 	return 0;
 }
